@@ -1,0 +1,111 @@
+body{
+ font-family: serif;
+ background-color: lightslategray;
+ font-size: 15px;
+ font-weight: 30px;
+}
+header{
+ text-align: center;
+ border: solid 1px black;
+ padding: 20px;
+ font-family: Times New Roman;
+ font-weight: 10px;
+ border-radius: 100px;
+ background-color: blanchedalmond;
+ margin-bottom: 100px;
+}
+#first{
+ border: solid 1px;
+ border-radius: 5px;
+ padding:0 20px 0 150px;
+ margin: 20px;
+ background-color: sandybrown;
+}
+.China{
+ height: 150px;
+ width: 150px;
+ border-radius: 5px;
+ border: solid black;
+}
+#second{
+ border: solid 1px;
+ border-radius: 5px;
+ padding: 0 150px 0 20px;
+ margin: 20px;
+ background-color: lightgoldenrodyellow;
+}
+.Jordan{
+ height: 150px;
+ width: 150px;
+ border-radius: 5px;
+ border: solid black;
+}
+#third{
+ border: solid 1px;
+ border-radius: 5px;
+ padding: 0 20px 0 150px;
+ margin: 20px;
+ background-color: #F365B9;
+}
+.Italy{
+ height: 150px;
+ width: 150px;
+ border-radius: 5px;
+ border: solid black;
+} 
+#fourth{
+ border: solid 1px;
+ border-radius: 5px;
+ padding: 0 150px 0 20px;
+ margin: 20px;
+ background-color: rgb(0,146,209);
+}
+.Mexico{
+ height: 150px;
+ width: 150px;
+ border-radius: 5px;
+ border: solid black;
+}
+#fifth{
+ border: solid 1px;
+ border-radius: 5px;
+ padding: 0 20px 0 150px;
+ margin: 20px;
+ background-color: #B46698;
+}
+.Peru{
+ height: 150px;
+ width: 150px;
+ border-radius: 5px;
+ border: solid black;
+}
+#sixth{
+ border: solid 1px;
+ border-radius: 5px;
+ padding: 0 150px 0 20px;
+ margin: 20px;
+ background-color: rgb(63,74,199);
+}
+.India{
+ height: 150px;
+ width: 150px;
+ border-radius: 5px;
+ border: solid black;
+}
+#seventh{
+ border: solid 1px;
+ border-radius: 5px;
+ padding: 0 20px 0 150px;
+ margin: 20px;
+ background-color: gainsboro;
+ }
+.Brazil{
+ height: 150px;
+ width: 150px;
+ border-radius: 5px;
+ border: solid black;
+} 
+footer{
+ text-align: center;
+ color: #000000;
+} 
